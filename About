@@ -1,1 +1,34 @@
-http://www.apec.umn.edu/people/grad-students/thomas-durfee
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Thomas Durfee</title>
+		<subtitle>PhD Student of Applied Economics, University of Minnesota</subtitle>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+			<!--http://www.apec.umn.edu/people/grad-students/thomas-durfee-->
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+			<li><a href="/nowhere">Nowhere</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Thomas Durfee</h1>
+				<li><a href="http://www.apec.umn.edu/people/grad-students/thomas-durfee">Website</a></li>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:durfe019@umn.edu">email</a></li>
+        		<li><a href="https://github.com/thodurfee">github.com/thodurfee</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
